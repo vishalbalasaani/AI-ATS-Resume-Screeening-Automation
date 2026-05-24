@@ -10,7 +10,7 @@ AI-powered ATS resume screening workflow built using n8n and OpenRouter APIs.
 
 ## Tools Used
 - n8n
-- OpenRouter
+- OpenAi
 - Gmail
 - Google Sheets
 
